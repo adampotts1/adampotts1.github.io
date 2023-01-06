@@ -1,0 +1,40 @@
+nav {
+    background-color: darkgray;
+    padding: 2em;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    display:flex;
+    color:blue
+    
+    
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.adamport {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%
+
+}
+
+body {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    background-color:steelblue
+}
+
+.card {
+    border: 2px;
+    border-color: black;
+    border-width: 2px;
+}
